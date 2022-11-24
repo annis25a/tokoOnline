@@ -1,0 +1,157 @@
+body{
+    background-color: #f4f4f4;
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.slide-produk{
+    padding: 0px 12px 0px 12px;
+}
+.slider .slick-next:before, .slider .slick-prev:before{
+    font-size: 30px;
+    color: #101010;
+}
+.top-left{
+    position: absolute;
+    width: 40%;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+/* About */
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #f3f3f4;
+    margin-top: 80px;
+}
+
+.about img{
+    height: auto;
+    width: 330px;
+    border-radius: 20px;
+}
+
+.about-text{
+    width: 550px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h2{
+    color: #2264a8;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.about-text p{
+    color: #51a4fb;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+.about .btn{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 180px;
+    height: 50px;
+    background-color: #51a4fb;
+    color:  #f3f3f4;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+} 
+
+.about .btn:hover{
+    background: white;
+    color: #51a4fb;
+    border: 1px solid;
+}
+
+
+
+/* Shop Age */
+.shop-age .row{
+    justify-content: center;
+    margin-top: 80px;    
+    
+}
+
+.shop-age .col-align{
+    margin: 0px 2px 0px 2px;
+}
+
+
+.judul-produk{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 100%;
+    max-height: 100%;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.harga-produk{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400; 
+}
+
+
+.btn1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    width: 90px;
+    height: 30px;
+    background-color: #51a4fb;
+    color: #f3f3f4;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background:  #f3f3f4;
+    color: #51a4fb;
+    border: 1px solid;
+}
+.bottom-center{
+    position: absolute;
+    margin-top: 33%;
+    margin-left: 118px;
+}
+.btn-age{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 120px;
+    height: 50px;
+    background-color: #51a4fb;
+    color:  #f3f3f4;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+}
+.btn-age:hover{
+    background: white;
+    color: #51a4fb;
+    border: 1px solid;
+}
+

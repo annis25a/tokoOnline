@@ -1,0 +1,37 @@
+body{
+    background-color: #f4f4f4;
+}
+.content{
+    width: 900px;
+    margin: auto;
+    background-color: white;
+    color: #101010;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 30px;
+    box-shadow: 0px 5px 5px rgba(0,0,0,0.4);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.btn1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    width: 120px;
+    height: 40px;
+    background-color: #101010;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background: white;
+    color: black;
+    border: 1px solid;
+}

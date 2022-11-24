@@ -1,0 +1,56 @@
+body{
+    background-color: #f4f4f4;
+}
+.card-header{
+    background-color: #101010;
+    color: white;
+}
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+thead{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+tbody{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.btn1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    width: 120px;
+    height: 40px;
+    background-color: #101010;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background: white;
+    color: black;
+    border: 1px solid;
+}
+.btn2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    width: 90px;
+    height: 30px;
+    background-color: #101010;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.btn2:hover{
+    background: white;
+    color: black;
+    border: 1px solid;
+}

@@ -1,0 +1,34 @@
+body{
+    background-color: #f4f4f4;
+}
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+.card{
+    background-color: white;
+    color: #2264a8;
+}
+td{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 400; 
+}
+.btn1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    width: 120px;
+    height: 40px;
+    background-color: #2264a8;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+.btn1:hover{
+    background: white;
+    color: black;
+    border: 1px solid;
+}
